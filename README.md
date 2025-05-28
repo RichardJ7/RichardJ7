@@ -11,8 +11,6 @@
 - <b> Google IT Support Professional Certificate <b>
 <h2>📺 Loom Videos </h2>
 
-- 
-
 <h2> 🤳 Connect with me:</h2>
 
 [linkedin]: [(https://linkedin.com/in/richardjones96)]
