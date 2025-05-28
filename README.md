@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Richard! <br/><a 
 
-<!--
-**RichardJ7/RichardJ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> IT & Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Ticketing Service Management</b>
+  - <b> Simulating Tickets in ServiceNow <b> 
+- </b> Directory and User Services <b>
+  - <b> Active Directory <b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Certifications </h2> 
+- <b> Google IT Support Professional Certificate <b>
+<h2>📺 Loom Videos </h2>
+
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: 
+
+
+
+]
