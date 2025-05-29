@@ -3,9 +3,9 @@
 <h2> IT & Cybersecurity Projects:</h2>
 
 - <b>Ticketing Service Management</b>
-  - <b> Simulating Tickets in ServiceNow <b> 
+  -  [Simulating Tickets in ServiceNow](https://github.com/RichardJ7/ServiceNow-Lab)
 - </b> Directory and User Services <b>
-  - <b> Active Directory <b>
+   - <b> Active Directory <b>
 
 <h2> Certifications </h2> 
 - <b> Google IT Support Professional Certificate <b>
