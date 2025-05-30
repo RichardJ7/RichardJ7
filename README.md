@@ -11,7 +11,7 @@
 <h2> Certifications </h2> 
 
   - <b> Google IT Support Professional Certificate </b>
-  - <b> CompTIA Security+ (in progress) <b>
+  - <b> CompTIA Security+ <b>
   
 
 
