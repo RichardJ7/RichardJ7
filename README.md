@@ -13,7 +13,7 @@
   - <b> Google IT Support Professional Certificate </b>
   - <b> CompTIA Security+ (in progress) <b>
   
-<h2>📺 Loom Videos </h2>
+
 
 
 
